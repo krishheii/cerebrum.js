@@ -1,0 +1,27 @@
+{
+  "name": "cerebrum.js",
+  "version": "1.0.0",
+  "description": "Natural Language Processing In JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishheii/cerebrum.js.git"
+  },
+  "keywords": [
+    "nlp",
+    "in",
+    "javascript"
+  ],
+  "author": "Krishnanunny H",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishheii/cerebrum.js/issues"
+  },
+  "homepage": "https://github.com/krishheii/cerebrum.js#readme",
+  "dependencies": {
+    "@nlpjs/basic": "^4.16.4"
+  }
+}
