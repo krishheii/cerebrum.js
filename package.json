@@ -1,6 +1,6 @@
 {
   "name": "cerebrum.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Natural Language Processing In JavaScript",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,12 @@
   },
   "keywords": [
     "nlp",
-    "in",
-    "javascript"
+    "nlp using javascript",
+    "natural language processing",
+    "nlp javascript node",
+    "nlp node js example",
+    "nlp for js",
+    "nlp with javascript"
   ],
   "author": "Krishnanunny H",
   "license": "MIT",
