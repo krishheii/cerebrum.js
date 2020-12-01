@@ -1,6 +1,6 @@
 {
   "name": "cerebrum.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Natural Language Processing In JavaScript",
   "main": "index.js",
   "scripts": {
