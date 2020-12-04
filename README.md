@@ -4,7 +4,7 @@
 
 > Cerebrum.js is a JavaScript library for Implementing NLP in JavaScript.
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.2-blueviolet)](https://www.npmjs.com/package/cerebrum.js)
+[![npm version](https://img.shields.io/badge/npm-v1.0.3-blueviolet)](https://www.npmjs.com/package/cerebrum.js)
 [![license](https://img.shields.io/badge/lisence-MIT-blueviolet)](https://www.npmjs.com/package/cerebrum.js)
 
 ## Description
@@ -176,9 +176,7 @@ setTimeout(function () {
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+If you would like to contribute to this project, take a clone from the main branch and create a new branch, make your changes, and raise a pull request to the main branch by describing the changes. Our team will review the changes and merge them into the main branch. 
 
 ## License
 
