@@ -173,7 +173,8 @@ setTimeout(function () {
 
 ```
 
-
+## Live Demo
+For a live demo of the Cereberum.js implementation please visit it's [Home Page](https://cerebrumdemoapp.herokuapp.com/)
 
 ## Contributing
 If you would like to contribute to this project, take a clone from the main branch and create a new branch, make your changes, and raise a pull request to the main branch by describing the changes. Our team will review the changes and merge them into the main branch. 
